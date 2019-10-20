@@ -1,6 +1,6 @@
 {
   "name": "lib-storage-service",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Balázs Winkler <djw@djw.hu>",
   "description": "LocalStorage service for Angular projects to watch LocalStorage changes",
   "peerDependencies": {
