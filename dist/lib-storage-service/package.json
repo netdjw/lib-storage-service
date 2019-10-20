@@ -1,6 +1,6 @@
 {
   "name": "lib-storage-service",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "Balázs Winkler <djw@djw.hu>",
   "description": "LocalStorage service for Angular projects to watch LocalStorage changes",
   "peerDependencies": {
@@ -9,6 +9,20 @@
     "rxjs": "~6.4.0",
     "zone.js": "~0.9.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netdjw/lib-storage-service"
+  },
+  "keywords": [
+    "localstorage",
+    "angular",
+    "watch",
+    "change detection",
+    "changes",
+    "change",
+    "detect",
+    "detect changes"
+  ],
   "main": "bundles/lib-storage-service.umd.js",
   "module": "fesm5/lib-storage-service.js",
   "es2015": "fesm2015/lib-storage-service.js",
