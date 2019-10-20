@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of lib-storage
+ */
+export * from './lib/lib-storage.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2xpYi1zdG9yYWdlLXNlcnZpY2UvIiwic291cmNlcyI6WyJwdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYywyQkFBMkIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgbGliLXN0b3JhZ2VcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9saWItc3RvcmFnZS5zZXJ2aWNlJztcbiJdfQ==
